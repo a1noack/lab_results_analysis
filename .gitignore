@@ -1,0 +1,4 @@
+lab_results/*
+*.pdf
+*.xlsx
+.DS_Store
